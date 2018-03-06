@@ -42,7 +42,7 @@ public class MoveWords{
     }
     public void showCommands(){
 	    for (String cmd : validCommands)
-	        System.out.print(cmd+" ");
+	        System.out.print(cmd + " ");
 	    System.out.println();
     }
 
